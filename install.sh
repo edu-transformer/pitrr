@@ -3,6 +3,7 @@ echo "Hello, $USER!"
 
 echo "Starting Raspberry Pi setup..."
 
+curl -sSL https://github.com/edu-transformer/pitrr/blob/main/init/sys_update.sh -o init/sys_update.sh
 # ... (any other initial steps)
 
 echo "Updating and upgrading system software..."

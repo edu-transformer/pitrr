@@ -18,7 +18,7 @@ The setup is achieved through a series of scripts. These scripts automate the co
 To set up your Raspberry Pi, run the following command in the terminal. This will download and execute the main installation script.
 
 ```bash
-curl -sSL https://github.com/edu-transformer/pitrr/blob/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/edu-transformer/pitrr/main/install.sh | bash
 ```
 
 ### Initial Setup (`init/`)
